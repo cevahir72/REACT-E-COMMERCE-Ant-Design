@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "image":"https://cdn.cnn.com/cnnnext/dam/assets/210922153639-best-smartphones-lead.jpg",
+        "title":"-- Smart Phones --"
+    },
+    {
+        "id":2,
+        "image":"https://seyler.ekstat.com/img/max/800/o/o30EYrmhu1akDe70-637825220161107514.jpg",
+        "title":"-- Air Fryer 5000 --"
+    },
+    {
+        "id":3,
+        "image":"https://cdn.thewirecutter.com/wp-content/media/2021/05/kiddiepool-2048px-intex.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+        "title":"-- Kid Pools --"
+    },
+    {
+        "id":4,
+        "image":"https://www.lawsonshop.co.uk/image/eyJidWNrZXQiOiJpbWFnZXMtbGF3c29uc2hvcCIsImtleSI6Imxhd3NvbnNob3BcL2xpdmVcL3Byb2R1Y3RzXC8xNDc3XC9LQ1RXSVNULmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjE1MDAiLCJoZWlnaHQiOiI3NTAiLCJmaXQiOiJpbnNpZGUiLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfSwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwianBlZyI6eyJxdWFsaXR5Ijo5MH19fQ==",
+        "title":"-- Ice Cube Trays --"
+    }
+]

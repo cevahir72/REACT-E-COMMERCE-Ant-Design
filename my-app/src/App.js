@@ -1,10 +1,18 @@
-
 import './App.css';
+import Navbar from './components/Navbar';
+import UpHeader from './components/UpHeader';
+import Slider from './components/Slider';
+import Products from './components/Products';
+
+
 
 function App() {
   return (
     <div className="App">
-      {/* E commerce yapacağız */}
+        <UpHeader/>
+        <Navbar/>
+        <Slider/>
+        <Products/>
       
     </div>
   );
